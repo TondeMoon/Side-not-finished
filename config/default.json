@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecret": "ninaSecret",
+  "mongoUri": "mongodb+srv://Nina:7082949nina@cluster0.wwoai.mongodb.net/<dbname>?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000"
+}
